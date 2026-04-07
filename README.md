@@ -3,7 +3,7 @@
 Convert Excel files to PDF instantly online — **no login required**.
 
 👉 **Use the tool here:**
-https://myclicktools.com/tools/excel-to-pdf/
+https://myclicktools.com/tools/excel-pdf-converter/
 
 ---
 
@@ -13,24 +13,26 @@ https://myclicktools.com/tools/excel-to-pdf/
 * No signup or login required
 * Fast and secure processing
 * Works on desktop and mobile
+* Supports .xls and .xlsx files
 
 ---
 
-## 📌 Why Use This Tool?
+## 📌 Why Use This Excel to PDF Converter?
 
-Many online converters require login or payment.
-This tool is designed to be:
+Most online converters require login, watermark your files, or limit usage.
+This tool is built to be:
 
-* Simple and easy to use
+* Simple and user-friendly
 * Privacy-focused (no file storage)
 * Completely free
+* Fast and reliable
 
 ---
 
 ## 🌐 Live Demo
 
 Try it here:
-https://myclicktools.com/tools/excel-to-pdf/
+https://myclicktools.com/tools/excel-pdf-converter/
 
 ---
 
@@ -40,6 +42,7 @@ excel to pdf online free
 convert excel to pdf without login
 free excel to pdf converter
 excel file to pdf online
+xls to pdf converter free
 
 ---
 
@@ -50,6 +53,9 @@ excel file to pdf online
 
 * Animated GIF Creator
   https://myclicktools.com/tools/animated-gif-creator/
+
+* Birthday Countdown
+  https://myclicktools.com/tools/birthday-countdown/
 
 ---
 
@@ -65,7 +71,11 @@ No, you can use the tool without login.
 
 ### Is my file secure?
 
-Yes, files are not stored and are processed securely.
+Yes, files are processed securely and not stored.
+
+### Does it support XLS and XLSX files?
+
+Yes, both formats are supported.
 
 ---
 
@@ -77,5 +87,5 @@ If you found this useful, give this repository a star ⭐ on GitHub.
 
 ## 🔗 More Free Tools
 
-Explore more tools:
+Explore all tools:
 https://myclicktools.com/
